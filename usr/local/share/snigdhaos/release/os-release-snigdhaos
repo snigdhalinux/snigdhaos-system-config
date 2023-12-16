@@ -10,6 +10,6 @@ DOCUMENTATION_URL="https://github.com/snigdhalinux/snigdhaos-archiso/wiki"
 SUPPORT_URL="https://snigdhalinux.github.io/"
 BUG_REPORT_URL="https://github.com/snigdhalinux/snigdhaos-archiso/issues"
 PRIVACY_POLICY_URL="https://snigdhalinux.github.io/"
-LOGO=snigdhaos
+LOGO=snigdhaos-logo
 IMAGE_ID=snigdhaos
 IMAGE_VERSION=rolling
