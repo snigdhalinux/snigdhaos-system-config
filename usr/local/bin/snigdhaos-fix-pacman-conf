@@ -52,7 +52,7 @@ fi
 # pacman config + not online
 if [ $Online -eq 0 ] && [ $file_boolean -eq 1 ] ; then
 	echo "Copying..." 
-	sudo cp /usr/local/share/arcolinux/pacman.conf /etc/pacman.conf
+	sudo cp /usr/local/share/snigdhaos/pacman.conf /etc/pacman.conf
 fi
 
 #putting old pacman config back
