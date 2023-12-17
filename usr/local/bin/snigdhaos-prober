@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Author	:	Erik Dubois
+# Website	:	https://www.erikdubois.be
+
+# Mod by : Eshan Roy
+# URL : https://eshanized.github.io
+
+echo ""
+echo "Installing probe for people who do not have it"
+echo "prober will be the alias"
+echo ""
+
+sudo pacman -S --noconfirm --needed hw-probe
+
+echo ""
+echo "Done.."
+echo ""
