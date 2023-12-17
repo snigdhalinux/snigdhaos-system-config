@@ -1,0 +1,10 @@
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Type = Package
+Target = filesystem
+
+[Action]
+Description = Apply Snigdha OS logo
+When = PostTransaction
+Exec = /bin/sh -c "cp /usr/share/pixmaps/snigdhaos.svg /usr/share/pixmaps/archlinux.svg"

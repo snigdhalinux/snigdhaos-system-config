@@ -1,0 +1,10 @@
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Type = Package
+Target = filesystem
+
+[Action]
+Description = Apply Snigdha OS Specific Config
+When = PostTransaction
+Exec = /bin/sh -c "/usr/local/bin/snigdhaos-os-release"

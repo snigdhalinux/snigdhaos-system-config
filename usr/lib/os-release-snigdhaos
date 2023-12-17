@@ -1,0 +1,9 @@
+NAME=SnigdhaOS
+ID=snigdhaos
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="0;36"
+HOME_URL="https://snigdhalinux.github.io/"
+SUPPORT_URL="https://snigdhalinux.github.io/"
+BUG_REPORT_URL="https://github.com/snigdhalinux"
+LOGO=snigdhaos

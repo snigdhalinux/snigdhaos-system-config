@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Author	: Eshan Roy
+# Website	: https://eshanized.github.io
+
+if [ -f /usr/share/applications/btrfs-assistant.desktop ]; then
+	FIND="Categories=GNOME;GTK;System;Garuda-Setup;"
+	REPLACE="Categories=GTK;Settings;Security;X-GNOME-Settings-Panel;X-GNOME-SystemSettings;X-Unity-Settings-Panel;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;"
+	sudo sed -i "s/$FIND/$REPLACE/g" /usr/share/applications/btrfs-assistant.desktop
+fi

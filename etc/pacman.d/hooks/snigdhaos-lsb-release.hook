@@ -1,0 +1,10 @@
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Type = Package
+Target = lsb-release
+
+[Action]
+Description = Apply Snigdha OS Lsb Release
+When = PostTransaction
+Exec = /bin/sh -c "/usr/local/bin/snigdhaos-lsb-release"
