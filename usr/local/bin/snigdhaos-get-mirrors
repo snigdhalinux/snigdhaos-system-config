@@ -7,6 +7,8 @@
 # Website : https://github.com/eshanized
 
 sudo /usr/bin/reflector --score 100 --fastest 10 --number 10 --verbose --save /etc/pacman.d/mirrorlist
+sudo /usr/bin/rate-mirrors --concurrency 40 --disable-comments --allow-root --save /etc/pacman.d/blackarch-mirrorlist
+sudo /usr/bin/rate-mirrors --concurrency 40 --disable-comments --allow-root --save /etc/pacman.d/chaotic-mirrorlist
 
 echo ""
 echo "Done.."

@@ -6,4 +6,4 @@
 # Modified By   : Eshan Roy
 # Website       : https://eshanized.github.io
 
-# sudo cp /usr/local/share/snigdhaos/release/lsb-release-snigdhaos /etc/lsb-release
+sudo cp /usr/local/share/snigdhaos/release/lsb-release-snigdhaos /etc/lsb-release

@@ -7,4 +7,4 @@ Target = snigdhaos-system-config
 [Action]
 Description = Apply Snigdha OS logo
 When = PostTransaction
-Exec = /bin/sh -c "cp /usr/share/pixmaps/snigdhaos.svg /usr/share/pixmaps/archlinux.svg"
+Exec = /bin/sh -c "cp /usr/share/pixmaps/snigdhaos-logo.svg /usr/share/pixmaps/archlinux.svg"
