@@ -10,5 +10,5 @@ echo ""
 echo "Changing Logo..."
 echo ""
 
-sudo cp /usr/local/share/snigdhaos/release/os-release-snigdhaos /usr/lib/os-release
-sudo cp /usr/local/share/snigdhaos/release/os-release-snigdhaos /usr/lib/os-release-snigdhaos
+# sudo cp /usr/local/share/snigdhaos/release/os-release-snigdhaos /usr/lib/os-release
+# sudo cp /usr/local/share/snigdhaos/release/os-release-snigdhaos /usr/lib/os-release-snigdhaos
