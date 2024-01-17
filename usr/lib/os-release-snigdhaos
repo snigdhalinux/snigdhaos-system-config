@@ -1,7 +1,10 @@
 NAME="Snigdha OS"
-PRETTY_NAME="Snigdha OS"
+PRETTY_NAME="Snigdha OS - Arctic"
 ID=arch
-BUILD_ID=rolling
+BUILD_ID=arctic
 ANSI_COLOR="38;2;23;147;209"
-HOME_URL="https://snigdhalinux.github.io/"
-LOGO=snigdhaos-white
+HOME_URL="https://snigdhaos.org/"
+DOCUMENTATION_URL="https://forum.snigdhaos.org/"
+SUPPORT_URL="https://forum.snigdhaos.org/"
+BUG_REPORT_URL="https://forum.snigdhaos.org/"
+LOGO=snigdhaos-arctic
