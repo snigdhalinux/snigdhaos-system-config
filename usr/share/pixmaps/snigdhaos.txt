@@ -1,5 +1,4 @@
                                                
-                                               
                        c                       
                 lo    o K                      
                 NMX  :M.c0                     
@@ -21,7 +20,4 @@
                .M cMMMMMMMx                    
                 X NMMM.:Md                     
                   :MM; W;                      
-                   :M                          
-                                               
-                                               
-                                               
+                   :M
